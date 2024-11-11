@@ -1,0 +1,9 @@
+# Load plugins
+source ~/.config/zsh/plugins.zsh
+
+# Load env
+source ~/.config/zsh/env.zsh
+source ~/.config/zsh/secret.zsh
+
+# Load functions
+source ~/.config/zsh/functions.zsh

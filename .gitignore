@@ -1,0 +1,10 @@
+.idea
+configstore
+github-copilot
+jgit
+raycast
+k9s
+zed
+zsh/org.zsh
+zsh/secret.zsh
+.DS_Store
